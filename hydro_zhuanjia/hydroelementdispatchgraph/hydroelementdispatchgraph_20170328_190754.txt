@@ -1,0 +1,71 @@
+WARNING - 19:07:54: Creating types 
+WARNING - 19:07:55: Initializing types
+ERROR - The operation was not stored in the content of an Enumeration : DeliOrStor
+ERROR - The operation was not stored in the content of an Enumeration : DeliOrStor
+ERROR - The operation was not stored in the content of an Enumeration : DeliOrStor
+WARNING - 19:08:06: Generic post-process : Creating usages and associations
+WARNING - 19:08:06: Generic post-process : Creating activities
+WARNING - 19:08:06: Saving .uml resource: 20170328_190806
+WARNING - 19:08:08: Finished saving .uml resource: 20170328_190808
+ERROR - 19:08:08: Multiple exceptions
+----- exceptions : ----------
+unknown : No service found under key 'org.eclipse.papyrus.infra.core.services.EditorLifecycleManager'
+unknown : No service found under key 'org.eclipse.papyrus.infra.core.editor.IMultiDiagramEditor'
+unknown : No service found under key 'org.eclipse.papyrus.infra.core.editor.IMultiDiagramEditor'
+unknown : No service found under key 'org.eclipse.papyrus.infra.core.services.EditorLifecycleManager'
+org.eclipse.papyrus.infra.core.lifecycleevents.ISaveAndDirtyService : No service registered under 'interface org.eclipse.papyrus.infra.core.editor.IMultiDiagramEditor'
+org.eclipse.papyrus.infra.core.lifecycleevents.ISaveAndDirtyService : Bad state for service 'org.eclipse.papyrus.infra.core.lifecycleevents.ISaveAndDirtyService'. Expected 'initialized' found 'error'.
+----------------------------- 
+
+WARNING - 19:08:08: Creating class diagrams
+WARNING - 19:08:08: Creating activity diagrams
+WARNING - 19:08:08:    class diagram for packageImports
+WARNING - 19:08:08: Saving .notation resource
+WARNING - 19:08:08: Finished saving .notation resource
+WARNING - 19:08:08: Saving .di resource
+WARNING - 19:08:08: Finished saving .di resource
+WARNING - 19:08:18:    class diagram for hydroelementdispatchgraph
+WARNING - 19:08:19:    class diagram for me
+WARNING - 19:08:20:    class diagram for owenyy
+WARNING - 19:08:21:    class diagram for divideperiod
+WARNING - 19:08:22:    class diagram for helper
+WARNING - 19:08:23:    class diagram for drawmethods
+WARNING - 19:08:24:    class diagram for helper
+WARNING - 19:08:25:    class diagram for pso
+WARNING - 19:08:26:    class diagram for servicedispatchgraph
+WARNING - 19:08:27:    class diagram for useregulation
+WARNING - 19:08:27:    class diagram for optimal
+WARNING - 19:08:28:    class diagram for pso
+WARNING - 19:08:29:    class diagram for java
+WARNING - 19:08:30:    class diagram for util
+WARNING - 19:08:31:    class diagram for time
+WARNING - 19:08:31:    class diagram for format
+WARNING - 19:08:32:    class diagram for lang
+WARNING - 19:08:32:    class diagram for math
+WARNING - 19:08:33:    class diagram for io
+WARNING - 19:08:34:    class diagram for com
+WARNING - 19:08:34:    class diagram for wenyu
+WARNING - 19:08:35:    class diagram for hydroelements
+WARNING - 19:08:36:    class diagram for hydrostation
+WARNING - 19:08:37:    class diagram for characcurves
+WARNING - 19:08:37:    class diagram for constraint
+WARNING - 19:08:38:    class diagram for dispatchgraph
+WARNING - 19:08:39:    class diagram for operation
+WARNING - 19:08:40:    class diagram for basic
+WARNING - 19:08:41:    class diagram for behavior
+WARNING - 19:08:41:    class diagram for statistics
+WARNING - 19:08:42:    class diagram for timebucket
+WARNING - 19:08:43:    class diagram for curve
+WARNING - 19:08:44:    class diagram for factory
+WARNING - 19:08:44:    class diagram for state
+WARNING - 19:08:45:    class diagram for station
+WARNING - 19:08:46:    class diagram for topology
+WARNING - 19:08:47:    class diagram for service
+WARNING - 19:08:47:    class diagram for excelutil
+WARNING - 19:08:48:    class diagram for fromdbway1
+WARNING - 19:08:49:    class diagram for org
+WARNING - 19:08:50:    class diagram for apache
+WARNING - 19:08:50:    class diagram for commons
+WARNING - 19:08:51:    class diagram for math3
+WARNING - 19:08:52:    class diagram for stat
+WARNING - 19:08:53:    class diagram for junit
