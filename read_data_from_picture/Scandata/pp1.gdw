@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetDataWorkspace>
+  <version>2.24</version>
+  <File>
+    <Name>E:\workspaceOctave\Scandata\pp1.jpg</Name>
+    <Width>645</Width>
+    <Height>674</Height>
+  </File>
+  <Line>
+    <Caption>Line #1</Caption>
+    <LineColor>136,135,136</LineColor>
+    <BkColor>225,225,225</BkColor>
+    <PtColor>220,70,220</PtColor>
+    <LineType>0</LineType>
+    <Points MF="9">1111,5188,1147,3586,1174,3055,1201,2956,1237,5179,1282,3325,1300,3064,1336,2974,1363,5440,1399,5071</Points>
+    <Points MF="9">1417,5170,1426,5269,1462,4144,1498,5224,1561,5395,1588,4270,1624,5494,1651,4081,1696,5053,1732,5269</Points>
+    <Points MF="9">1750,5503,1786,5431,1822,5530,1849,5422,1885,5539,1939,5548,1984,5404,2011,5503,2047,5287,2083,5467</Points>
+    <Points MF="9">2110,5404,2146,5521,2200,5521,2236,5404,2272,5539,2335,5539,2371,5386,2398,5305,2434,2893,2461,2695</Points>
+    <Points MF="9">2533,5512,2560,1939,2668,5521,2686,1894,2785,5503,2821,3316,2857,4792,2884,3622,2920,5233,2947,3865</Points>
+    <Points MF="9">2983,5458,3019,5359,3046,5440,3109,5404,3145,5251,3181,5404,3208,4990,3244,4963,3271,3451,3307,5467</Points>
+    <Points MF="9">3334,5494,3370,5458,3397,5260,3433,5485,3469,4792,3505,5512,3541,5368,3559,4747,3604,4711,3640,4711</Points>
+    <Points MF="9">3658,4567,3694,5206,3730,4747,3766,4702,3793,4531,3811,4684,3856,4720,3901,4693,3919,4540,3991,1732</Points>
+    <Points MF="9">4018,2515,4045,2425,4081,3010,4144,1309,4180,1264,4207,2515,4243,760,4279,481,4342,3028,4378,1579</Points>
+    <Points MF="9">4405,2461,4441,427,4468,2560,4504,1993,4531,1948,4567,1165,4603,3001,4630,3226,4666,4621,4693,4423</Points>
+    <Points MF="9">4729,5206,4765,3604,4801,3469,4828,3487,4855,4621,4891,3154,4918,3478,4954,3397,4990,5368,5053,1417</Points>
+    <Points MF="9">5116,4648,5161,3172,5179,2821</Points>
+  </Line>
+  <CurrentLine>0</CurrentLine>
+  <Xmin MF="9">1102,5809,0.000000e+000</Xmin>
+  <Xmax MF="9">5692,5809,3.200000e+001</Xmax>
+  <Ymin MF="9">1102,5818,4.010000e+002</Ymin>
+  <Ymax MF="9">1093,166,1.479000e+003</Ymax>
+  <XScale>linear</XScale>
+  <YScale>linear</YScale>
+  <Position>571,377</Position>
+  <Zoom>
+    <Scale>350.0</Scale>
+  </Zoom>
+  <Digitize>
+    <IgnorePixels>1</IgnorePixels>
+    <LineIDMethod>2</LineIDMethod>
+  </Digitize>
+  <AutoTrace>
+    <TraceDistance>8</TraceDistance>
+    <SmoothLines>1</SmoothLines>
+  </AutoTrace>
+  <DigitizeArea>
+    <LineOrArea>0</LineOrArea>
+    <RotateAngle>0.000000</RotateAngle>
+    <dx>8.000000</dx>
+  </DigitizeArea>
+  <GridSettings>
+    <ShowGrid>0</ShowGrid>
+    <AreaType>0</AreaType>
+    <dx>15.000000</dx>
+    <dy>15.000000</dy>
+  </GridSettings>
+</GetDataWorkspace>
